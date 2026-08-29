@@ -4,7 +4,12 @@
 ## committee structure
 | ROLE | NAME | RESPONSIBILITES |
 | ---- | ----- | ------------- |
-| **faculty  coordinator** |
+| Faculty  coordinator | Dr.sharma | Overall supervision & approvals |
+| Student lead | Priya | Team management & execution | 
+| Logistics lead | Vij | Venue setup & equipment management |
+| Finance lead | Ramya | Budget tracking & sponsorships |
+
+---
 # progam flow:
 | TIME | ACTIVITY | PERFORMER |
 | ----- | ------ | ------- |
