@@ -1,7 +1,7 @@
 # 🎆🎇 Event - cultural fest 2026🎆🎇
 ## Date: 24/9/26
 ## venue: Main Auditorium
-## committee structure <i>
+## Committee structure <i>
 | ROLE | NAME | RESPONSIBILITES |
 | ---- | ----- | ------------- |
 | Faculty  coordinator | Dr.sharma | Overall supervision & approvals |
@@ -10,8 +10,15 @@
 | Finance lead | Ramya | Budget tracking & sponsorships |
 
 ---
-## budget <i>
-# progam flow <i>
+## Budget <i>
+* Venue & Equipment setup : 5000
+* Guest : 1,50,000
+* Lunch : 50,000
+* Certificate & Trophies : 10,000
+* Total budget : 2,15,000
+
+  ---
+# Progam flow <i>
 | TIME | ACTIVITY | PERFORMER |
 | ----- | ------ | ------- |
 | 9:00 am -9:30 am | welcome speech | volunteers | 
