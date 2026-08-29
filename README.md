@@ -40,5 +40,27 @@
 
  ---
  
+ ## Photo documentation <i>
+ ## Feed back <i>
+ | ASPECT | AVERAGE RATING (OUT OF 5)
+ | ------| ------- |
+ | overall organization | 4.8 |
+ | venue & seating| 4.5 |
+ |Food & refreshments| 4.7|
+ | sound & lighting| 4.9 |
 
+  ---
+ # Final Report <i>
+ Participants:200
+ General attendence:550+
+ Facuty & Guests:50
+ ## Recommendations
+ Increase seating capacity next time
+ Start registation earlier
+
+
+ ------
+ Report complited on 25/9/26
+ 
+   
 
