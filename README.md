@@ -18,7 +18,7 @@
 * Total budget : 2,15,000
 
   ---
-# Progam flow <i>
+# Event Schedule <i>
 | TIME | ACTIVITY | PERFORMER |
 | ----- | ------ | ------- |
 | 9:00 am -9:30 am | welcome speech | volunteers | 
@@ -31,6 +31,14 @@
 | 2:00 pm-3:00 pm | dj & group dance | cultural committee |
 | 3:00 pm-3:30 pm | prize distribution | guest |
 | 3:30 pm-4:00 pm | vote of thanks & closing | management |
-# Rules
+
+---
+## Invitation <i>
+> * Invitation draft :
+>   Dear faculty & students you are cordially invited to attend the **cultural fest 2026**.Join us for a enjoyable event
+>   Date : 24/9/26
+
+ ---
+ 
 
 
