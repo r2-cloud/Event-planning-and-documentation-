@@ -1,6 +1,10 @@
 # 🎆🎇 Event - cultural fest 2026🎆🎇
 ## Date: 24/9/26
 ## venue: Main Auditorium
+## committee structure
+| ROLE | NAME | RESPONSIBILITES |
+| ---- | ----- | ------------- |
+| **faculty  coordinator** |
 # progam flow:
 | TIME | ACTIVITY | PERFORMER |
 | ----- | ------ | ------- |
