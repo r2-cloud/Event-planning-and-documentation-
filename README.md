@@ -18,7 +18,7 @@
 * Total budget : 2,15,000
 
   ---
-# Event Schedule <i>
+# Event Schedule <i> 
 | TIME | ACTIVITY | PERFORMER |
 | ----- | ------ | ------- |
 | 9:00 am -9:30 am | welcome speech | volunteers | 
