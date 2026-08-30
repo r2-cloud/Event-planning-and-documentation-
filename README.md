@@ -54,8 +54,11 @@
   ---
  # Final Report <i>
 | Participants | 200 |
+| ------- | ---- |
 | General attendence | 550+ |
+| --------- | ------ |
 | Facuty & Guests | 50 |
+| ------- | ------- |
  ## Recommendations
  Increase seating capacity next time
  Start registation earlier
