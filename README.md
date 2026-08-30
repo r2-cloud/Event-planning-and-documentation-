@@ -41,7 +41,8 @@
  ---
  
  ## Photo documentation <i>
- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/62164d4f-9628-41f9-ac2f-e45ea103859e" />
+ <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/62164d4f-9628-41f9-ac2f-e45ea103859e" /><img width="736" height="1030" alt="image" src="https://github.com/user-attachments/assets/c6521ceb-58d2-4931-a58d-164f9d794c36" />
+
 
  ## Feed back <i>
  | ASPECT | AVERAGE RATING (OUT OF 5)
