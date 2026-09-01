@@ -12,7 +12,7 @@
 ---
 ## Budget <i>
 * Venue & Equipment setup : 5000
-* Guest : 1,50,000
+* Guest : 1,20,000
 * Lunch : 50,000
 * Certificate & Trophies : 10,000
 * Total budget : 2,15,000
@@ -23,7 +23,7 @@
 | ----- | ------ | ------- |
 | 9:00 am -9:30 am | welcome speech | volunteers | 
 | 9:30 am -10:00 am | welcome dance | arts club members |
-| 10:00 am-10:15 am | guest arrival | suriya & sai pallavi |
+| 10:00 am-10:15 am | guest arrival | suriya  |
 | 10:15 am-11:00 am | singing competition | music club members |
 | 11:00 am-12:30 pm | dance competition | other college students |
 | 12:30 pm-1:10 pm | lunch break | cafeteria |
