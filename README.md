@@ -1,4 +1,4 @@
-# 🎆🎇 Event - cultural fest 2026🎆🎇
+# 🎆🎇 Event - cultural fest 2026🎇🎆
 ## Date: 24/9/26
 ## venue: Main Auditorium
 ## Committee structure <i>
